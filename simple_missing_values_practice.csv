@@ -1,0 +1,11 @@
+student,age,study_hours,marks,city
+Aarav,18.0,2.0,72.0,Bhopal
+Diya,19.0,3.5,,Indore
+Kabir,,1.0,55.0,Bhopal
+Meera,18.0,,81.0,
+Ishaan,20.0,4.0,90.0,Delhi
+Sara,19.0,2.5,68.0,Indore
+Arjun,18.0,,,Delhi
+Anaya,,3.0,77.0,Bhopal
+Rohan,20.0,1.5,60.0,
+Tara,19.0,4.5,95.0,Delhi
